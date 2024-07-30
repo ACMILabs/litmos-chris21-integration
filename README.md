@@ -22,3 +22,5 @@ Notes
 2. Logs are produced for each run (success or failure)
 3. Error logs are produced for each error
 4. Supplementary logs show XML body being passed to API
+5. Chris21 exports are archived on each run
+6. Archived exports are deleted if older than 60 days
