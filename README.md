@@ -2,6 +2,8 @@
 
 This PowerShell script creates/updates Litmos users from a Chris21 XML export.
 
+If you find this script helpful, please consider supporting ACMI buy making a donation via https://tickets.acmi.net.au/donate/i/23
+
 ------------------------
 Installation/Setup
 ------------------------
